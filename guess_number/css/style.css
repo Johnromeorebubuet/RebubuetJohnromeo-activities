@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(43, 92, 50);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container{
+    background-color: rgba(35, 228, 228, 0.589);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    margin-left: 5px;
+}
+input[type="number"]{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box; 
+}
+input[type="submit"] {
+    background-color: rgb(238, 164, 130);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}

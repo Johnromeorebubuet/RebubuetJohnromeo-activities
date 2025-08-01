@@ -1,0 +1,10 @@
+.blue-text {
+    color: rgb(217, 255, 0);
+}
+.green-bg {
+    background-color: rgb(0, 77, 128);
+}
+.orange-border {
+    border: 2px solid orangered;
+    border-radius: 25px;
+}
